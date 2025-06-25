@@ -12,6 +12,11 @@ This is my public learning space where I document everything in the AWS cloud jo
 - Links to my Medium articles 
 - Real reflections as I grow from beginner to professional
 
+## AWS Certifications
+AWS Cloud Practitioner Certification
+![image](https://github.com/user-attachments/assets/100f769f-0190-43c7-a1b8-d41dbac8ee35)
+
+
 ## 📕 AWS Notes by Category
 
 🖥️ **Compute**
