@@ -2,7 +2,7 @@
 *My Journey From Cloud Practitioner to Solution Architect*
 
 Hi, I'm Peace
-This is my public learning space where I document everything in the AWS cloud journry - from basic concepts to achitecture-level thinking
+This is my public learning space where I document everything in the AWS cloud journey - from basic concepts to achitecture-level thinking
 
 ## 📚 What You'll Find Here
 
